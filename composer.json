@@ -1,0 +1,20 @@
+{
+  "name": "almountakha92/projet-app-daf",
+  "description": "Une courte description de mon projet PHP.",
+  "type": "library",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "App\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Almountakha92",
+      "email": "seneleyty113@gmail.com"
+    }
+  ],
+  "require": {},
+  "minimum-stability": "stable",
+  "prefer-stable": true
+}
